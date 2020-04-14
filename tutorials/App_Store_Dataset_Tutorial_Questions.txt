@@ -1,0 +1,38 @@
+What's the average byte size of mobile apps?
+
+    df.size_bytes.mean()
+    129114474.25036035 bytes
+
+
+How many apps are free vs. paid?
+
+    df.loc[df["price"] == 0.00].count()
+    df.loc[df["price"] > 0.00].count()
+    There are 7959 free apps and 3141 paid apps, for a total of 11100 apps.
+
+
+How many mobile apps are games and what is the general categorical distribution of apps by genre?
+
+    df.loc[df["prime_genre"] == "Games"].count()
+    There are 3862 games in the dataset.
+
+    genres = df["prime_genre"].value_counts()
+    genres.sort_values(ascending=False, inplace=True)
+    plt.subplots(figsize=(20, 10))
+    sns.barplot(x=genres.values, y=genres.index, order=genres.index, orient="h")
+
+    There are many more games than any other category, with "Entertainment" and "Education" being distant runner-ups.
+
+
+What are the most popular mobile games by total popular rating?
+
+    games = df.loc[df["prime_genre"] == "Games"]
+    games.sort_values(by="rating_count_tot", ascending=False, inplace=True)
+    games.head()
+
+    The most popular games by total ratings are:
+        1. Clash of Clans
+        2. Temple Run
+        3. Candy Crush Saga
+        4. Angry Birds
+        5. Subway Surfers
