@@ -1,0 +1,201 @@
+ID,Fish,Boops,Size,Time,Location,Weather,Value
+1,zebra turkeyfish,3,medium,11:14,sea,clear,500
+2,guppy,5,x small,11:17,river,clear,1300
+3,sea horse,5,x small,11:24,sea,clear,1100
+4,olive flounder,4,large,11:25,sea,clear,800
+5,bluegill,3,small,11:27,river,clear,180
+6,sea bass,2,x large,11:30,sea,clear,400
+7,olive flounder,1,large,11:31,sea,clear,800
+8,sea bass,2,x large,11:32,sea,clear,400
+9,sea bass,1,x large,11:33,sea,clear,400
+10,squid,3,medium,11:34,sea,clear,500
+11,bluegill,3,small,11:36,river,clear,180
+12,horse mackerel,2,small,11:37,sea,clear,150
+13,olive flounder,4,large,11:38,sea,clear,800
+14,horse mackerel,3,small,11:38,sea,clear,150
+15,loach,4,small,11:44,river,clear,400
+16,barred knifejaw,2,medium,11:46,sea,clear,5000
+17,red snapper,1,large,11:48,sea,clear,3000
+18,horse mackerel,3,small,11:50,sea,clear,150
+19,sea bass,1,x large,11:52,sea,clear,400
+20,zebra turkeyfish,1,medium,11:52,sea,clear,500
+21,dab,4,medium,11:53,sea,clear,300
+22,pale chub,5,x small,11:55,river,clear,160
+23,red snapper,3,large,12:00,sea,clear,3000
+24,dab,2,medium,12:01,sea,clear,300
+25,black bass,2,large,12:02,river,clear,400
+26,crucian carp,1,small,12:06,river,clear,160
+27,loach,5,small,12:09,clifftop river,clear,400
+28,boot,4,medium,12:11,river mouth,clear,10
+29,black bass,2,large,12:12,river,clear,400
+30,sea bass,4,x large,12:13,sea,clear,400
+31,clown fish,2,x small,12:14,sea,clear,650
+32,zebra turkeyfish,2,medium,12:16,sea,clear,500
+33,sea horse,2,x small,13:11,sea,clear,1100
+34,dab,4,medium,13:13,sea,clear,300
+35,red snapper,2,large,13:15,sea,clear,3000
+36,sea bass,3,x large,13:17,sea,clear,400
+37,sea bass,3,x large,13:24,sea,clear,400
+38,loach,4,small,13:25,river,clear,400
+39,killifish,1,x small,13:26,pond,clear,300
+40,black bass,3,large,13:27,river,clear,400
+41,black bass,4,large,13:29,river mouth,clear,400
+42,butterfly fish,1,small,13:30,sea,clear,1000
+43,neon tetra,4,x small,13:32,river,clear,500
+44,loach,3,small,13:35,river,clear,400
+45,black bass,1,large,13:36,river,clear,400
+46,loach,1,small,13:37,river,clear,400
+47,sea bass,4,x large,13:41,sea,clear,400
+48,neon tetra,2,x small,13:42,river,clear,500
+49,black bass,3,large,13:43,river,clear,400
+50,crucian carp,4,small,13:45,river,clear,160
+51,bluegill,4,small,13:46,river,clear,180
+52,pale chub,3,x small,13:48,river,clear,160
+53,clown fish,2,x small,13:50,sea,clear,650
+54,horse mackerel,2,small,13:50,sea,clear,150
+55,loach,4,small,13:52,river,clear,400
+56,neon tetra,3,x small,13:54,river,clear,500
+57,zebra turkeyfish,3,medium,13:56,sea,clear,500
+58,dab,3,medium,13:58,sea,clear,300
+59,dab,3,medium,13:59,sea,clear,300
+60,red snapper,1,large,14:01,sea,rain,3000
+61,horse mackerel,3,small,14:04,sea,rain,150
+62,horse mackerel,2,small,14:08,sea,rain,150
+63,crucian carp,3,small,14:09,river,rain,160
+64,boot,4,medium,14:11,river,rain,10
+65,loach,3,small,14:18,river,rain,400
+66,horse mackerel,3,small,14:20,sea,rain,150
+67,red snapper,1,large,14:22,sea,rain,3000
+68,sea bass,2,x large,14:22,sea,rain,400
+69,sea bass,3,x large,14:23,sea,rain,400
+70,horse mackerel,3,small,14:24,sea,rain,150
+71,horse mackerel,3,small,14:25,sea,rain,150
+72,sea bass,1,x large,14:27,sea,rain,400
+73,anchovy,1,small,14:28,sea,rain,200
+74,squid,3,medium,14:31,sea,rain,500
+75,empty can,4,small,14:32,river,rain,10
+76,zebra turkeyfish,3,medium,14:34,sea,rain,500
+77,squid,2,medium,14:35,sea,rain,500
+78,horse mackerel,2,small,14:36,sea,rain,150
+79,crucian carp,1,small,14:37,river,rain,160
+80,pale chub,2,x small,14:37,river,rain,160
+81,neon tetra,2,x small,14:38,river,rain,500
+82,carp,3,large,14:40,pond,rain,300
+83,loach,2,small,14:41,river,rain,400
+84,neon tetra,3,x small,14:41,river,rain,500
+85,loach,2,small,14:42,clifftop river,rain,400
+86,loach,2,small,14:43,river mouth,rain,400
+87,neon tetra,1,x small,14:44,clifftop river,rain,500
+88,sea horse,1,x small,14:45,sea,rain,1100
+89,butterfly fish,3,small,14:46,sea,rain,1000
+90,stone,2,small,14:48,pier,rain,75
+91,zebra turkeyfish,2,medium,14:51,sea,rain,500
+92,crucian carp,1,small,2:13,river,clear,160
+93,black bass,4,large,2:17,river,clear,400
+94,tadpole,2,x small,2:19,pond,clear,100
+95,stone,3,small,2:22,river,clear,75
+96,loach,4,small,2:23,river,clear,400
+97,sea bass,1,x large,2:26,sea,clear,400
+98,sea bass,1,x large,2:27,sea,clear,400
+99,olive flounder,2,large,2:28,sea,clear,800
+100,stone,1,small,2:37,sea,clear,75
+101,loach,2,small,2:40,river,clear,400
+102,olive flounder,2,large,2:40,sea,clear,800
+103,horse mackerel,2,small,2:41,sea,clear,150
+104,sea horse,4,x small,2:42,sea,clear,1100
+105,horse mackerel,3,small,2:43,sea,clear,150
+106,sea horse,1,x small,2:44,sea,clear,1100
+107,clown fish,3,x small,2:45,sea,clear,650
+108,surgeonfish,1,small,2:46,sea,clear,1000
+109,red snapper,3,large,2:49,sea,clear,3000
+110,horse mackerel,2,small,2:49,sea,clear,150
+111,sea bass,2,x large,2:51,sea,clear,400
+112,horse mackerel,2,small,2:52,sea,clear,150
+113,sea bass,4,x large,2:53,sea,clear,400
+114,clown fish,4,x small,2:54,sea,clear,650
+115,zebra turkeyfish,1,medium,2:55,sea,clear,500
+116,sea horse,2,x small,2:56,sea,clear,1100
+117,sea bass,3,x large,2:57,sea,clear,400
+118,sea bass,2,x large,2:58,sea,clear,400
+119,pale chub,3,x small,15:00,river,clear,160
+120,guppy,2,x small,15:07,river,clear,1300
+121,bluegill,2,small,15:09,river,clear,180
+122,pale chub,3,x small,15:10,river,clear,160
+123,loach,3,small,15:15,river,clear,400
+124,red snapper,1,large,15:17,pier,clear,3000
+125,red snapper,1,large,15:18,sea,clear,3000
+126,zebra turkeyfish,3,medium,15:19,sea,clear,500
+127,horse mackerel,2,small,15:23,sea,clear,150
+128,sea bass,3,x large,15:25,sea,clear,400
+129,boot,3,medium,15:26,river,clear,10
+130,crucian carp,3,small,15:28,river,clear,160
+131,sea bass,4,x large,15:29,sea,clear,400
+132,sea horse,3,x small,15:30,sea,clear,1100
+133,horse mackerel,4,small,15:30,sea,clear,150
+134,sea bass,2,x large,15:31,sea,clear,400
+135,sea bass,1,x large,15:32,sea,clear,400
+136,butterfly fish,3,small,15:33,sea,clear,1000
+137,zebra turkeyfish,2,medium,15:34,sea,clear,500
+138,pale chub,5,x small,15:38,river,clear,160
+139,black bass,3,large,15:40,river,clear,400
+140,sea bass,2,x large,15:46,sea,clear,400
+141,dab,1,medium,15:47,sea,clear,300
+142,sea bass,2,x large,15:48,sea,clear,400
+143,dab,1,medium,15:49,sea,clear,300
+144,horse mackerel,4,small,15:49,sea,clear,150
+145,horse mackerel,2,small,15:50,sea,clear,150
+146,surgeonfish,2,small,15:51,sea,clear,1000
+147,red snapper,4,large,15:52,sea,clear,3000
+148,guppy,4,x small,15:53,river,clear,1300
+149,carp,4,large,15:59,pond,clear,300
+150,oarfish,2,x large,20:42,sea,clear,9000
+151,empty can,4,small,20:44,sea,clear,10
+152,dab,4,medium,20:45,sea,clear,300
+153,dab,1,medium,20:47,sea,clear,300
+154,dab,1,medium,20:49,sea,clear,300
+155,anchovy,2,small,20:50,sea,clear,200
+156,dace,3,medium,20:51,river,clear,240
+157,horse mackerel,2,small,20:52,sea,clear,150
+158,crucian carp,1,small,20:55,river,clear,160
+159,loach,2,small,20:56,river,clear,400
+160,loach,3,small,20:57,river,clear,400
+161,dab,3,medium,20:57,sea,clear,300
+162,zebra turkeyfish,4,medium,20:58,sea,clear,500
+163,sea bass,1,x large,20:59,sea,clear,400
+164,black bass,2,large,21:00,river,clear,400
+165,sea bass,2,x large,21:02,sea,clear,400
+166,horse mackerel,2,small,21:04,sea,clear,150
+167,dace,1,medium,21:04,river,clear,240
+168,crucian carp,1,small,21:06,river,clear,160
+169,dace,3,medium,21:06,clifftop river,clear,240
+170,stone,3,small,21:08,sea,clear,75
+171,squid,1,medium,21:09,sea,clear,500
+172,freshwater goby,3,small,21:10,river,clear,400
+173,sea bass,3,x large,21:11,sea,clear,400
+174,olive flounder,2,large,21:12,sea,clear,800
+175,horse mackerel,2,small,21:13,sea,clear,150
+176,dace,5,medium,21:14,river,clear,240
+177,loach,2,small,21:15,river,clear,400
+178,dab,4,medium,21:24,sea,clear,300
+179,olive flounder,2,large,21:25,sea,clear,800
+180,sea horse,4,x small,21:26,sea,clear,1100
+181,horse mackerel,3,small,21:26,sea,clear,150
+182,old tire,3,large,21:29,sea,clear,10
+183,horse mackerel,3,small,21:30,sea,clear,150
+184,squid,1,medium,21:31,sea,clear,500
+185,crucian carp,2,small,21:32,river,clear,160
+186,empty can,3,small,21:34,river,clear,10
+187,killifish,2,x small,21:35,pond,clear,300
+188,sea horse,5,x small,21:38,sea,clear,1100
+189,red snapper,4,large,21:39,sea,clear,3000
+190,sea bass,3,x large,21:40,sea,clear,400
+191,dab,2,medium,21:41,sea,clear,300
+192,olive flounder,3,large,21:43,sea,clear,800
+193,black bass,2,large,21:43,river,clear,400
+194,squid,5,medium,21:46,sea,clear,500
+195,sea bass,4,x large,21:47,sea,clear,400
+196,stone,3,small,21:48,sea,clear,75
+197,tadpole,2,x small,21:49,sea,clear,100
+198,dab,2,medium,21:50,sea,clear,300
+199,stone,2,small,21:51,sea,clear,75
+200,red snapper,4,large,21:51,sea,clear,3000
